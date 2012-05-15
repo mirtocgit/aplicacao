@@ -15,5 +15,11 @@ public class MyBean extends XEOBaseBean {
       html = result;
      return html;
   }
+  
+  public Void metodo1(){´
+
+	int i=0;
+
+  }
 
 }
