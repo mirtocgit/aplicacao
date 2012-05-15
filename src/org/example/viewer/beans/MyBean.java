@@ -7,6 +7,7 @@ public class MyBean extends XEOBaseBean {
 	private String html;
 	
 	public String remoto;
+	public int noremot;
     
     public String getHtml(){
         
