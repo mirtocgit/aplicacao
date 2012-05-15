@@ -7,6 +7,7 @@ public class MyBean extends XEOBaseBean {
 	private String html;
 	public int a;
 	private String xpta;
+	public String local;
     
     public String getHtml(){
         
