@@ -5,8 +5,7 @@ import netgest.bo.xwc.xeo.beans.XEOBaseBean;
 public class MyBean extends XEOBaseBean {
 	
 	private String html;
-	public int a;
-	private String xpte;
+	
 	public String remoto;
     
     public String getHtml(){
