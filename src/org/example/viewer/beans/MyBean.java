@@ -21,6 +21,9 @@ public class MyBean extends XEOBaseBean {
   public Void metodo1(){´
 
 	int i=0;
+	
+	i=10;
+	
 
   }
 
